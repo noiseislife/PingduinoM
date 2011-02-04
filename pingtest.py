@@ -1,4 +1,15 @@
 #!/usr/bin/python
+
+"""
+    PingduinoM - Visual ping using Arduino and BlinkM
+
+    Copyright (c) Pat Arneson - http://noiseislife.tumblr.com
+    Distributable under the terms of the GNU General Public License
+    version 2. Provided with no warranties of any sort.
+
+    Also find me on twitter @noise_is_life	
+"""
+
 import os,string,sys,ping,socket,time,serial
 
 def toBlinkM (ser, command):

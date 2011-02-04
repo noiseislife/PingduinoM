@@ -16,3 +16,7 @@ Here's the python script, this includes ping.py <http://svn.pylucid.net/pylucid/
 which is a pure python module I use for ping functionality.  I also hacked code from 
 John Tokash <http://johntokash.com/2009/03/23/python-os-x-arduino-blinkm/> for talking to the BlinkM.
 You will also need the pySerial <http://pyserial.sourceforge.net/> module installed.
+
+Pat Arneson
+<http://noiseislife.tumblr.com>
+<http://twitter.com/noise_is_life>
